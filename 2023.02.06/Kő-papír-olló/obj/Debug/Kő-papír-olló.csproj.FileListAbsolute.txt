@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Kő-papír-olló\obj\Debug\Kő-papír-olló.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Kő-papír-olló\obj\Debug\Kő-papír-olló.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Kő-papír-olló\obj\Debug\Kő-papír-olló.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Kő-papír-olló\bin\Debug\Kő-papír-olló.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Kő-papír-olló\bin\Debug\Kő-papír-olló.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Kő-papír-olló\bin\Debug\Kő-papír-olló.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Kő-papír-olló\obj\Debug\Kő-papír-olló.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Kő-papír-olló\obj\Debug\Kő-papír-olló.pdb

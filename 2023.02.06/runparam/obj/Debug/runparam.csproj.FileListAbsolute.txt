@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\runparam\bin\Debug\runparam.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\runparam\bin\Debug\runparam.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\runparam\bin\Debug\runparam.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\runparam\obj\Debug\runparam.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\runparam\obj\Debug\runparam.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\runparam\obj\Debug\runparam.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\runparam\obj\Debug\runparam.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\runparam\obj\Debug\runparam.pdb

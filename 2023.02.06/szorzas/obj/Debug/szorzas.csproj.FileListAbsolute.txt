@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\szorzas\bin\Debug\szorzas.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\szorzas\bin\Debug\szorzas.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\szorzas\bin\Debug\szorzas.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\szorzas\obj\Debug\szorzas.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\szorzas\obj\Debug\szorzas.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\szorzas\obj\Debug\szorzas.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\szorzas\obj\Debug\szorzas.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\szorzas\obj\Debug\szorzas.pdb

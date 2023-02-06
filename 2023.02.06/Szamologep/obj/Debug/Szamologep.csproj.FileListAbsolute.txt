@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Szamologep\bin\Debug\Szamologep.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Szamologep\bin\Debug\Szamologep.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Szamologep\obj\Debug\Szamologep.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Szamologep\obj\Debug\Szamologep.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Szamologep\obj\Debug\Szamologep.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Szamologep\obj\Debug\Szamologep.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Szamologep\obj\Debug\Szamologep.pdb

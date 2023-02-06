@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\PrePost\bin\Debug\PrePost.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\PrePost\bin\Debug\PrePost.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\PrePost\bin\Debug\PrePost.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\PrePost\obj\Debug\PrePost.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\PrePost\obj\Debug\PrePost.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\PrePost\obj\Debug\PrePost.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\PrePost\obj\Debug\PrePost.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\PrePost\obj\Debug\PrePost.pdb

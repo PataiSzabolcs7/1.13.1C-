@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Allatok\bin\Debug\Allatok.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Allatok\bin\Debug\Allatok.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Allatok\bin\Debug\Allatok.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Allatok\obj\Debug\Allatok.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Allatok\obj\Debug\Allatok.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Allatok\obj\Debug\Allatok.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Allatok\obj\Debug\Allatok.exe
+C:\Users\patai.szabolcs.lajos\source\repos\1.13.1-C-\Allatok\obj\Debug\Allatok.pdb
