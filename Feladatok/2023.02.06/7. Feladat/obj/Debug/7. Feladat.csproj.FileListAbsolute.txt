@@ -1,0 +1,8 @@
+D:\C#\Csharp home\7. Feladat\bin\Debug\_7.Feladat.exe.config
+D:\C#\Csharp home\7. Feladat\bin\Debug\_7.Feladat.exe
+D:\C#\Csharp home\7. Feladat\bin\Debug\_7.Feladat.pdb
+D:\C#\Csharp home\7. Feladat\obj\Debug\7. Feladat.csproj.AssemblyReference.cache
+D:\C#\Csharp home\7. Feladat\obj\Debug\7. Feladat.csproj.SuggestedBindingRedirects.cache
+D:\C#\Csharp home\7. Feladat\obj\Debug\7. Feladat.csproj.CoreCompileInputs.cache
+D:\C#\Csharp home\7. Feladat\obj\Debug\_7.Feladat.exe
+D:\C#\Csharp home\7. Feladat\obj\Debug\_7.Feladat.pdb
