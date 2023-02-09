@@ -1,0 +1,3 @@
+D:\C#\15. Feladat\obj\Debug\15. Feladat.csproj.AssemblyReference.cache
+D:\C#\15. Feladat\obj\Debug\15. Feladat.csproj.SuggestedBindingRedirects.cache
+D:\C#\15. Feladat\obj\Debug\15. Feladat.csproj.CoreCompileInputs.cache
