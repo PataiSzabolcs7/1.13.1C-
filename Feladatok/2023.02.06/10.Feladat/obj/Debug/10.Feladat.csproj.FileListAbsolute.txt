@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\10.Feladat\bin\Debug\10.Feladat.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\10.Feladat\bin\Debug\10.Feladat.exe
+C:\Users\patai.szabolcs.lajos\source\repos\10.Feladat\bin\Debug\10.Feladat.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\10.Feladat\obj\Debug\10.Feladat.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\10.Feladat\obj\Debug\10.Feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\10.Feladat\obj\Debug\10.Feladat.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\10.Feladat\obj\Debug\10.Feladat.exe
+C:\Users\patai.szabolcs.lajos\source\repos\10.Feladat\obj\Debug\10.Feladat.pdb
