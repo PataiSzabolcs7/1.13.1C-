@@ -1,0 +1,8 @@
+D:\C#\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.exe.config
+D:\C#\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.exe
+D:\C#\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.pdb
+D:\C#\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.AssemblyReference.cache
+D:\C#\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.SuggestedBindingRedirects.cache
+D:\C#\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.CoreCompileInputs.cache
+D:\C#\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.exe
+D:\C#\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.pdb

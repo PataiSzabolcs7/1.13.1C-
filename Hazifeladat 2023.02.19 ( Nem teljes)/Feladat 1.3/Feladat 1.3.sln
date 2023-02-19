@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Átlaghőmérséklet", "Átlaghőmérséklet.csproj", "{E76BC51E-6628-481C-A8EA-914C951510FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feladat 1.2", "..\Feladat 1.2\Feladat 1.2.csproj", "{11163FD6-1C4A-4549-96CC-2D939596D34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E76BC51E-6628-481C-A8EA-914C951510FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76BC51E-6628-481C-A8EA-914C951510FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76BC51E-6628-481C-A8EA-914C951510FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76BC51E-6628-481C-A8EA-914C951510FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11163FD6-1C4A-4549-96CC-2D939596D34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11163FD6-1C4A-4549-96CC-2D939596D34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11163FD6-1C4A-4549-96CC-2D939596D34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11163FD6-1C4A-4549-96CC-2D939596D34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254C78B5-2039-4328-AA64-7FF351F1627B}
+	EndGlobalSection
+EndGlobal
