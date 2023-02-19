@@ -1,0 +1,8 @@
+D:\C#\Hazifeladat\6. Feladat\bin\Debug\_6.Feladat.exe.config
+D:\C#\Hazifeladat\6. Feladat\bin\Debug\_6.Feladat.exe
+D:\C#\Hazifeladat\6. Feladat\bin\Debug\_6.Feladat.pdb
+D:\C#\Hazifeladat\6. Feladat\obj\Debug\6. Feladat.csproj.AssemblyReference.cache
+D:\C#\Hazifeladat\6. Feladat\obj\Debug\6. Feladat.csproj.SuggestedBindingRedirects.cache
+D:\C#\Hazifeladat\6. Feladat\obj\Debug\6. Feladat.csproj.CoreCompileInputs.cache
+D:\C#\Hazifeladat\6. Feladat\obj\Debug\_6.Feladat.exe
+D:\C#\Hazifeladat\6. Feladat\obj\Debug\_6.Feladat.pdb
