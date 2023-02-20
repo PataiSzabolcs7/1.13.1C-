@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osztaly", "Osztaly\Osztaly.csproj", "{63F0A9B9-A6C7-4EA9-8835-B5C735D05AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorf", "Polimorf\Polimorf.csproj", "{94F3F6B4-2237-4746-9699-AEE5D5863D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F0A9B9-A6C7-4EA9-8835-B5C735D05AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F0A9B9-A6C7-4EA9-8835-B5C735D05AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F0A9B9-A6C7-4EA9-8835-B5C735D05AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F0A9B9-A6C7-4EA9-8835-B5C735D05AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F3F6B4-2237-4746-9699-AEE5D5863D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F3F6B4-2237-4746-9699-AEE5D5863D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F3F6B4-2237-4746-9699-AEE5D5863D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F3F6B4-2237-4746-9699-AEE5D5863D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3FE0657-CA5D-4685-AD21-CD4EF1BA2255}
+	EndGlobalSection
+EndGlobal

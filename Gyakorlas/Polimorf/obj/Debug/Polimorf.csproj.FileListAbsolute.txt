@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Polimorf\bin\Debug\Polimorf.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Polimorf\bin\Debug\Polimorf.exe
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Polimorf\bin\Debug\Polimorf.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Polimorf\obj\Debug\Polimorf.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Polimorf\obj\Debug\Polimorf.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Polimorf\obj\Debug\Polimorf.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Polimorf\obj\Debug\Polimorf.exe
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Polimorf\obj\Debug\Polimorf.pdb

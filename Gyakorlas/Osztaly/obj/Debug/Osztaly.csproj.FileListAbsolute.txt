@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Osztaly\bin\Debug\Osztaly.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Osztaly\bin\Debug\Osztaly.exe
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Osztaly\bin\Debug\Osztaly.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Osztaly\obj\Debug\Osztaly.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Osztaly\obj\Debug\Osztaly.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Osztaly\obj\Debug\Osztaly.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Osztaly\obj\Debug\Osztaly.exe
+C:\Users\patai.szabolcs.lajos\source\repos\Gyakorlas\Osztaly\obj\Debug\Osztaly.pdb
