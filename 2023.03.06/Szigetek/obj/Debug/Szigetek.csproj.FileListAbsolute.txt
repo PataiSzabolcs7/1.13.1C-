@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\Szigetek\bin\Debug\Szigetek.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\Szigetek\bin\Debug\Szigetek.exe
+C:\Users\patai.szabolcs.lajos\source\repos\Szigetek\bin\Debug\Szigetek.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\Szigetek\obj\Debug\Szigetek.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Szigetek\obj\Debug\Szigetek.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Szigetek\obj\Debug\Szigetek.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\Szigetek\obj\Debug\Szigetek.exe
+C:\Users\patai.szabolcs.lajos\source\repos\Szigetek\obj\Debug\Szigetek.pdb
