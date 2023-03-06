@@ -5,7 +5,7 @@ using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Háromszög
+namespace Haromszog
 {
     class Haromszog
     {
