@@ -1,0 +1,8 @@
+D:\C#\Haromszoghasab\bin\Debug\Haromszoghasab.exe.config
+D:\C#\Haromszoghasab\bin\Debug\Haromszoghasab.exe
+D:\C#\Haromszoghasab\bin\Debug\Haromszoghasab.pdb
+D:\C#\Haromszoghasab\obj\Debug\Haromszoghasab.csproj.AssemblyReference.cache
+D:\C#\Haromszoghasab\obj\Debug\Haromszoghasab.csproj.SuggestedBindingRedirects.cache
+D:\C#\Haromszoghasab\obj\Debug\Haromszoghasab.csproj.CoreCompileInputs.cache
+D:\C#\Haromszoghasab\obj\Debug\Haromszoghasab.exe
+D:\C#\Haromszoghasab\obj\Debug\Haromszoghasab.pdb
