@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.ConstrainedExecution;
@@ -13,18 +13,18 @@ namespace Haromszog
         private double a;
         private double b;
         private double c;
-        private double m;
+        private double S;
         private double T;
         private double K;
 
         //Konstruktorok
         public Haromszog() { }
-        public Haromszog(double a, double b, double c, double m)
+        public Haromszog(double a, double b, double c,double S)
         {
             this.a = a;
             this.b = b;
             this.c = c;
-            this.m = m;
+            this.S = (this.a + this.b + this.c) / 2;
         }
 
         //Metódusok
@@ -40,9 +40,9 @@ namespace Haromszog
         {
             this.c = c;
         }
-        public void setM(double m)
+        public void setS()
         {
-            this.m = m;
+            this.S = (this.a + this.b + this.c) / 2;
         }
 
         public double getA()
@@ -57,13 +57,9 @@ namespace Haromszog
         {
             return this.c;
         }
-        public double getM()
-        {
-            return this.m;
-        }
         public void setT()
         {
-            this.T = (this.a * this.m) / 2;
+            this.T = Math.Sqrt(this.S * (this.S - this.a) * (this.S - this.b) * (this.S - this.c));
         }
         public double getT()
         {
@@ -86,30 +82,23 @@ namespace Haromszog
         private double V;
         private double F;
 
-        public Hasab() { }
-        public Hasab(double m)
+        public Hasab() :base() { }
+        public Hasab(double m,double a, double b, double c, double S) : base(a,b,c,S)
         {
-            this.m = m;
-        }
-        public void setA(double a)
-        {
-            this.a = a;
+            this.m= m;
         }
         public void setM(double m)
         {
             this.m = m;
         }
-        public double getA()
+        public void setHaromszog()
         {
-            return this.a;
-        }
-        public double getM()
-        {
-            return this.m;
+            base.setT();
+            base.setK();
         }
         public void setV()
         {
-            this.V = (Math.Sqrt(3) / 4) * Math.Pow(this.a, 2) * this.m;
+            this.V = base.getT() * this.m;
         }
         public double getV()
         {
@@ -117,7 +106,7 @@ namespace Haromszog
         }
         public void setF()
         {
-            this.F = 2 * (Math.Sqrt(3) / 4) * Math.Pow(this.a, 2) + 3 * this.a * this.m;
+            this.F = 2*base.getT()+base.getK()*2;
         }
         public double getF()
         {
