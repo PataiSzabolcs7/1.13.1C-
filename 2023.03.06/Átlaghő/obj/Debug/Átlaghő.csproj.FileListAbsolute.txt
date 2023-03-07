@@ -1,0 +1,8 @@
+D:\C#\Átlaghő\bin\Debug\Átlaghő.exe.config
+D:\C#\Átlaghő\bin\Debug\Átlaghő.exe
+D:\C#\Átlaghő\bin\Debug\Átlaghő.pdb
+D:\C#\Átlaghő\obj\Debug\Átlaghő.csproj.AssemblyReference.cache
+D:\C#\Átlaghő\obj\Debug\Átlaghő.csproj.SuggestedBindingRedirects.cache
+D:\C#\Átlaghő\obj\Debug\Átlaghő.csproj.CoreCompileInputs.cache
+D:\C#\Átlaghő\obj\Debug\Átlaghő.exe
+D:\C#\Átlaghő\obj\Debug\Átlaghő.pdb
