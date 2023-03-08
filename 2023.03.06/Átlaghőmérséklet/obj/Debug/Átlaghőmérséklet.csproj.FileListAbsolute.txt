@@ -1,8 +1,0 @@
-C:\Users\patai.szabolcs.lajos\source\repos\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.exe.config
-C:\Users\patai.szabolcs.lajos\source\repos\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.exe
-C:\Users\patai.szabolcs.lajos\source\repos\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.pdb
-C:\Users\patai.szabolcs.lajos\source\repos\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.AssemblyReference.cache
-C:\Users\patai.szabolcs.lajos\source\repos\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.SuggestedBindingRedirects.cache
-C:\Users\patai.szabolcs.lajos\source\repos\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.CoreCompileInputs.cache
-C:\Users\patai.szabolcs.lajos\source\repos\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.exe
-C:\Users\patai.szabolcs.lajos\source\repos\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.pdb
