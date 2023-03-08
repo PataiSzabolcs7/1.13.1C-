@@ -62,7 +62,8 @@ using System.Threading.Tasks; namespace Átlaghő
             }
             Console.WriteLine("A legmelegebb hónap:{0}-dik, az átlagoshőmérséklet:{1} fok",maxhonap,maxhonapho);
             Console.WriteLine("A leghidegebb hónap:{0}-dik, az átlagoshőmérséklet:{1} fok",minhonap,minhonapho); 
-            Console.ReadKey();         }
+            Console.ReadKey();         
+        }
     }
 }
 
