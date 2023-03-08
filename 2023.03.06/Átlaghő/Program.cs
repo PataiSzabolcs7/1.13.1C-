@@ -1,4 +1,3 @@
-﻿[17:13] Patai Szabolcs Lajos
 using System;
 using System.Collections.Generic;
 using System.Linq;
