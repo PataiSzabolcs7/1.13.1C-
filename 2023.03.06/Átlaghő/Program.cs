@@ -10,15 +10,20 @@ using System.Threading.Tasks; namespace Átlaghő
         {
             int honapok = 12;
             int napok = 30;
-            int[,] homerseklet = new int[honapok, napok];             Random rand = new Random();
+            int[,] homerseklet = new int[honapok, napok];             
+                Random rand = new Random();
             for (int i = 0; i < honapok; i++)
             {
                 for (int j = 0; j < napok; j++)
                 {
                     homerseklet[i, j] = rand.Next(-20,40);
                 }
-            }             int maxho = int.MinValue;
-            int minho = int.MaxValue;             for (int i = 0; i < honapok; i++)
+            }
+            
+             int maxho = int.MinValue;
+             int minho = int.MaxValue;
+                
+                for (int i = 0; i < honapok; i++)
             {
                 for (int j = 0; j < napok; j++)
                 {
@@ -32,8 +37,11 @@ using System.Threading.Tasks; namespace Átlaghő
                     }
                 }
             }
+                
             Console.WriteLine("A legmelegebb fok:{0}", maxho);
-            Console.WriteLine("A leghidegebb fok:{0}", minho);             int[] honapho = new int[honapok];
+            Console.WriteLine("A leghidegebb fok:{0}", minho);
+                
+            int[] honapho = new int[honapok];
             for (int i = 0; i < honapok; i++)
             {
                 int sum = 0;
