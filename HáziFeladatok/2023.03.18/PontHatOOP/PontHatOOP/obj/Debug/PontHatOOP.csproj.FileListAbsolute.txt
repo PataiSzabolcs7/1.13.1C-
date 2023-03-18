@@ -1,0 +1,8 @@
+D:\C#\PontHatOOP\PontHatOOP\bin\Debug\PontHatOOP.exe.config
+D:\C#\PontHatOOP\PontHatOOP\bin\Debug\PontHatOOP.exe
+D:\C#\PontHatOOP\PontHatOOP\bin\Debug\PontHatOOP.pdb
+D:\C#\PontHatOOP\PontHatOOP\obj\Debug\PontHatOOP.csproj.AssemblyReference.cache
+D:\C#\PontHatOOP\PontHatOOP\obj\Debug\PontHatOOP.csproj.SuggestedBindingRedirects.cache
+D:\C#\PontHatOOP\PontHatOOP\obj\Debug\PontHatOOP.csproj.CoreCompileInputs.cache
+D:\C#\PontHatOOP\PontHatOOP\obj\Debug\PontHatOOP.exe
+D:\C#\PontHatOOP\PontHatOOP\obj\Debug\PontHatOOP.pdb
