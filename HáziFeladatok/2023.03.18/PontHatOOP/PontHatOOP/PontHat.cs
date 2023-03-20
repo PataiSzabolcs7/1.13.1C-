@@ -45,7 +45,7 @@ namespace PontHatOOP
             {
                 Console.WriteLine("Öttös, a pont száma:{0}", this.a);
             }
-            return this.a;
+            
         }
     }
 }
