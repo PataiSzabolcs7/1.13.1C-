@@ -11,7 +11,9 @@ namespace PontHatOOP
         static void Main(string[] args)
         {
             PontHat h1 = new PontHat();
-            h1.setA(90);
+            Console.WriteLine("Addja meg a Pontszámot:");
+            int a = int.Parse(Console.ReadLine());
+            h1.setA(a);
             Console.WriteLine(h1.getA());
             Console.ReadKey();
         }
