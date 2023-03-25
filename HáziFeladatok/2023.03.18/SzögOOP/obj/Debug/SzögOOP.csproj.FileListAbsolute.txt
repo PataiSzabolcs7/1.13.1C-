@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SzögOOP\bin\Debug\SzögOOP.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SzögOOP\bin\Debug\SzögOOP.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SzögOOP\bin\Debug\SzögOOP.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SzögOOP\obj\Debug\SzögOOP.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SzögOOP\obj\Debug\SzögOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SzögOOP\obj\Debug\SzögOOP.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SzögOOP\obj\Debug\SzögOOP.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SzögOOP\obj\Debug\SzögOOP.pdb

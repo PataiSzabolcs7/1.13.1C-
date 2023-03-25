@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Pontok távolsága\bin\Debug\Pontok távolsága.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Pontok távolsága\bin\Debug\Pontok távolsága.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Pontok távolsága\bin\Debug\Pontok távolsága.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Pontok távolsága\obj\Debug\Pontok távolsága.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Pontok távolsága\obj\Debug\Pontok távolsága.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Pontok távolsága\obj\Debug\Pontok távolsága.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Pontok távolsága\obj\Debug\Pontok távolsága.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Pontok távolsága\obj\Debug\Pontok távolsága.pdb

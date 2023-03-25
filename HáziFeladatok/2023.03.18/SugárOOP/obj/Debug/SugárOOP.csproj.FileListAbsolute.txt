@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SugárOOP\bin\Debug\SugárOOP.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SugárOOP\bin\Debug\SugárOOP.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SugárOOP\bin\Debug\SugárOOP.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SugárOOP\obj\Debug\SugárOOP.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SugárOOP\obj\Debug\SugárOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SugárOOP\obj\Debug\SugárOOP.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SugárOOP\obj\Debug\SugárOOP.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\SugárOOP\obj\Debug\SugárOOP.pdb
