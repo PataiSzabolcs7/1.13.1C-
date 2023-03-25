@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\CímletezésOOP\obj\Debug\CímletezésOOP.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\CímletezésOOP\obj\Debug\CímletezésOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\CímletezésOOP\obj\Debug\CímletezésOOP.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\CímletezésOOP\bin\Debug\CímletezésOOP.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\CímletezésOOP\bin\Debug\CímletezésOOP.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\CímletezésOOP\bin\Debug\CímletezésOOP.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\CímletezésOOP\obj\Debug\CímletezésOOP.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\CímletezésOOP\obj\Debug\CímletezésOOP.pdb

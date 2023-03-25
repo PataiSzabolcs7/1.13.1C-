@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\DinnyeOOP\obj\Debug\DinnyeOOP.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\DinnyeOOP\obj\Debug\DinnyeOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\DinnyeOOP\obj\Debug\DinnyeOOP.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\DinnyeOOP\bin\Debug\DinnyeOOP.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\DinnyeOOP\bin\Debug\DinnyeOOP.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\DinnyeOOP\bin\Debug\DinnyeOOP.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\DinnyeOOP\obj\Debug\DinnyeOOP.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\DinnyeOOP\obj\Debug\DinnyeOOP.pdb
