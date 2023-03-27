@@ -9,8 +9,9 @@ namespace CsempeOOP
     internal class Csempe
     {
         private double a, b, T, cs, TT;
+        private int cs;
         public Csempe() { }
-        public Csempe(double a, double b, double T, double cs, double TT)
+        public Csempe(double a, double b, double T, int cs, double TT)
         {
             this.a = a;
             this.b = b;
@@ -41,7 +42,7 @@ namespace CsempeOOP
         public double getA() { return this.a; }
         public double getB() { return this.b; }
         public double getT() { return this.T; }
-        public double getCS() { return this.cs; }
+        public int getCS() { return this.cs; }
         public double getTT() { return this.TT; }
     }
 }
