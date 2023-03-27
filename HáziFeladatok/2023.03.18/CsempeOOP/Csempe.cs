@@ -8,7 +8,7 @@ namespace CsempeOOP
 {
     internal class Csempe
     {
-        public double a, b, T, cs, TT;
+        private double a, b, T, cs, TT;
         public Csempe() { }
         public Csempe(double a, double b, double T, double cs, double TT)
         {
