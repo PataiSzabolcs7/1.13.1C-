@@ -1,0 +1,8 @@
+C:\Users\patai.szabolcs.lajos\source\repos\20230522\bin\Debug\20230522.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\20230522\bin\Debug\20230522.exe
+C:\Users\patai.szabolcs.lajos\source\repos\20230522\bin\Debug\20230522.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\20230522\obj\Debug\20230522.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\20230522\obj\Debug\20230522.csproj.SuggestedBindingRedirects.cache
+C:\Users\patai.szabolcs.lajos\source\repos\20230522\obj\Debug\20230522.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\20230522\obj\Debug\20230522.exe
+C:\Users\patai.szabolcs.lajos\source\repos\20230522\obj\Debug\20230522.pdb
