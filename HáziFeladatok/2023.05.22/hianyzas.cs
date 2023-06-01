@@ -10,11 +10,12 @@ namespace _20230522
 {
     internal class hianyzas
     {
+        //Változók
         double f;
         int a, b;
         string nev;
         public hianyzas() { }
-
+        //Metódusok
         public void setA(int a)
         {
             this.a = a;
