@@ -1,0 +1,17 @@
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\_18._4_Feladat.Form1.resources
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.csproj.GenerateResource.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.AssemblyInfoInputs.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.AssemblyInfo.cs
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\bin\Debug\net6.0-windows\18.4 Feladat.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\bin\Debug\net6.0-windows\18.4 Feladat.deps.json
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\bin\Debug\net6.0-windows\18.4 Feladat.runtimeconfig.json
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\bin\Debug\net6.0-windows\18.4 Feladat.dll
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\bin\Debug\net6.0-windows\18.4 Feladat.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.dll
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\refint\18.4 Feladat.dll
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\18.4 Feladat.genruntimeconfig.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\18.4 Feladat\obj\Debug\net6.0-windows\ref\18.4 Feladat.dll
